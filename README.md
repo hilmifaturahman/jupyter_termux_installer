@@ -25,7 +25,14 @@ jupyter notebook
 ```
 then enter
 
-Copy and paste the url in termux to browser format like this
+Copy and paste the url in termux to browser format like this:
+
 http://localhost:8888/tree?token=yourtoken
 
+or
+
+http://127.0.0.1:8888/tree?token=yourtoken
+
 Jupyter notebook is ready to use on android.
+
+![ss_jupyter](https://github.com/hilmifaturahman/jupyter_termux_installer/blob/master/ss_jupyter.jpg)
